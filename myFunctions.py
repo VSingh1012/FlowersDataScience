@@ -31,10 +31,4 @@ def convertToCm(meters, feet):
 
 
 
-cool_list = [12, 23, 3, 4, 6, 7, 8, 45, 2, 4, 6]
-
-get_len(cool_list)
-
-
-
 
