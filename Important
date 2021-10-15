@@ -1,3 +1,1 @@
-There are a few issues that need to be solved. Due the IDE's lack of a good virtual environment, there are no ways to run these files containing numpy, matplotlib, or pandas, since an error will be thrown, needs IMMEDIATE fixing.
-
 PlantClassDatabase needs to accomodate the needs of the csv through the python file, allowing for easy appedning through the venv. 
