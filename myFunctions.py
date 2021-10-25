@@ -29,6 +29,5 @@ def convertToCm(meters, feet):
     print(str(feet) + " ft = " + str(feet * 30.48) + " cm")
 
 
-
-
+convertToCm(9, 0)
 
